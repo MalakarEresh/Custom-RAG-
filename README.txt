@@ -18,6 +18,6 @@
 4. This project is just a backend created using FastAPI to demonstrate document ingestion and RAG implementation.
     * For now the RAG implementation uses a simple keyword based filtering in order to give response.
     * In simple the system is not intelligent in order to give the proper response we want and we can improve it 
-      by integrating AI models.
+      by integrating AI models which i will be updating on.
     * The document ingestion uses twe chunking technique fixed simple and paragraph with a selector provided.
     * The documents are then stored in vector database, in this i have used Pinecone. 
