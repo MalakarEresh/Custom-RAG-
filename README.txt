@@ -21,3 +21,5 @@
       by integrating AI models which i will be updating on.
     * The document ingestion uses twe chunking technique fixed simple and paragraph with a selector provided.
     * The documents are then stored in vector database, in this i have used Pinecone. 
+
+5. This is just a backend api so for testing use swagger provided by FastAPI
